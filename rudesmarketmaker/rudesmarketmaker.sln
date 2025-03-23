@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "rudesmarketmaker", "rudesmarketmaker.vdproj", "{D5D55C68-BF4B-996A-A266-C087C1C3795C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5D55C68-BF4B-996A-A266-C087C1C3795C}.Debug|Default.ActiveCfg = Debug
+		{D5D55C68-BF4B-996A-A266-C087C1C3795C}.Debug|Default.Build.0 = Debug
+		{D5D55C68-BF4B-996A-A266-C087C1C3795C}.Release|Default.ActiveCfg = Release
+		{D5D55C68-BF4B-996A-A266-C087C1C3795C}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3824EFDC-4371-4CD6-973C-3CFBAACE63E5}
+	EndGlobalSection
+EndGlobal
